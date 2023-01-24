@@ -1,1 +1,1 @@
-console.log (abcdefghijklmnopgrstuvwxyz);
+console.log ('abcdefghijklmnopgrstuvwxyz');
